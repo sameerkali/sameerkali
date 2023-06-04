@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [sameerfaridi.io](sameerfaridi.io)
 
-- 💬 Ask me about **JS, HTML, CSS, REACT, EXPRESS, NODE, MONGO 🐵**
+- 💬 Ask me about **JS, HTML, CSS, REACT, EXPRESS, NODE, MONGO 🐵** $
 
 - 📫 How to reach me **s.faridi007@gmail.com**
 
