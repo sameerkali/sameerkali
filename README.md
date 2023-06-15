@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [sameerfaridi.io](sameerfaridi.io)
 
-- 💬 Ask me about **JS, HTML, CSS, REACT, EXPRESS, NODE, MONGO 🐵** $
+- 💬 Ask me about **JS, HTML, CSS, REACT, EXPRESS, NODE, MONGOS, UNITY 🐵** $
 
 - 📫 How to reach me **s.faridi007@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://www.linkedin.com/in/sameer-faridi-12830a16b/overlay/1635514636986/single-media-viewer/?profileId=ACoAAChyWDAB5W4xF_o2SpFYXq6JA5UsHV_oJx4](https://drive.google.com/file/d/1NUWHV0js34Xy52mj_VdF9SBGNRid1P-f/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NUWHV0js34Xy52mj_VdF9SBGNRid1P-f/view?usp=sharing)
 
 - ⚡ Fun fact **I think i have great sense of humor 😂**
 
