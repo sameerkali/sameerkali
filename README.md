@@ -1,5 +1,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="">
-<h1 align="center">Hi 👋, My name is Sameer Faridi  :shipit:</h1>
+<h1 align="center">Howdy! 🤠 I go by the name SAMEER FARIDI. Nice to e-meet you! 🌟</h1>
 <h3 align="center">I am a highly motivated IT student based in the UK with a passion for coding and a strong interest in computer hardware and cybersecurity. I have extensive knowledge and experience working with programming languages such as C++, C, and MERN. Additionally, I am actively improving my skills in Data Structures and Algorithms. I am currently working as a professional in Dahua India, where I am leveraging my expertise to contribute to the company's growth and success.</h3>
 
 
