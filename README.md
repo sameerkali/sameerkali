@@ -23,7 +23,7 @@
 
 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NUWHV0js34Xy52mj_VdF9SBGNRid1P-f/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ArLxYu2rpqlGJ9m0qNzCNLwyOWOtmRv7/view?usp=sharing)
 
 - ⚡ Fun fact **I think i have great sense of humor 😂**
 
