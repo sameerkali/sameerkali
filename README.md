@@ -12,7 +12,7 @@
 
 ## 👨‍💻 All of my projects are available at [sameerfaridi.io](https://sameers-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on [SpaceVoyage](https://github.com/sameerkali/SpaceVoyage)
+- 🔭 I’m currently working on [SpaceVoyage](https://github.com/sameerkali/SpaceVoyage) [it's cooking]
 
 - 🌱 I’m currently learning **React With TS**
 
