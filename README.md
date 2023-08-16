@@ -29,13 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sameerkali" height="30" width="40" /></a>
 <a href="https://twitter.com/Sameer_faridi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer_faridi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sameer-faridi-%F0%9F%87%AE%F0%9F%87%B3-12830a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer faridi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21512289/sameer-faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer faridi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sameerkali" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sameer_faridi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sameer_faridi0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@s_faridi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@s_faridi007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerkali" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sfaridi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sfaridi007" height="30" width="40" /></a>
 </p>
