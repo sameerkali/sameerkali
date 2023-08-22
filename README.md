@@ -19,11 +19,11 @@
 
 - 👯 I’m looking to collaborate on [Cal.com](https://cal.com/) The GitHub [Repositery](https://github.com/calcom/cal.com)
 
-- 💬 Ask me about **JavaScript, HTML5, CSS3, React, Express, Node, MongoDB, UNITY 🐵** $
+- 💬 Ask me about **JavaScript, Reusability, Accessibility, Internal Working, API's 🐵** $
 
 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ArLxYu2rpqlGJ9m0qNzCNLwyOWOtmRv7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SJemF6SgJT7SLSNhqexKc9PJbKlq-XgM/view?usp=sharing)
 
 - ⚡ Fun fact **I think i have great sense of humor 😂**
 
