@@ -114,17 +114,16 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ### :sparkles: My Followers
 
-![Metrics](https://metrics.lecoq.io/itgoyo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      <a href="https://github.com/bpradiip">
+        <img src="https://avatars.githubusercontent.com/u/59313918?v=4" width="100px;" alt="NaiboWang"/>
       </a>
       <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+      <a href="https://github.com/bpradiip">bpradiip</a>
     </td>
     <td align="center">
       <a href="https://github.com/hoochanlon">
