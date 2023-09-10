@@ -106,13 +106,11 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
-------------------------------------------
-------------------------------------------
+<!-- ------------------------------------------ -->
+<!-- --------------FOLLOWERS------------------- -->
+<!-- ------------------------------------------ -->
 
 
-
-
-### :sparkles: My Followers
 
 
 <!--START_SECTION:top-followers-->
@@ -126,11 +124,11 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
       <a href="https://github.com/bpradiip">bpradiip</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      <a href="https://github.com/Ttamez68A">
+        <img src="https://avatars.githubusercontent.com/u/97178823?v=4" width="100px;" alt="hoochanlon"/>
       </a>
       <br />
-      <a href="https://github.com/hoochanlon">123456</a>
+      <a href="https://github.com/Ttamez68A">Ttamez68A</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
@@ -141,10 +139,10 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
     <td align="center">
       <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+        <img src="https://avatars2.githubusercontent.com/u/ARAbros" width="100px;" alt="snowdream"/>
       </a>
       <br />
-      <a href="https://github.com/snowdream">snowdream</a>
+      <a href="https://github.com/snowdream">ARAbros</a>
     </td>
     <td align="center">
       <a href="https://github.com/Leticia-maria">
