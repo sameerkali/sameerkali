@@ -93,7 +93,27 @@
 
 
 
+
+<!--START_SECTION:waka-->
+
+```txt
+Typescript          24 hrs 3 mins   🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.03 %
+Shell               9 hrs 2 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.78 %
+Markdown            15 hrs 46 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.07 %
+Javascript          8 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.03 %
+text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.01 %
+```
+
+<!--END_SECTION:waka-->
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerkali&" alt="sameerkali" /></p>
+
+
+
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
