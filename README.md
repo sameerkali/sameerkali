@@ -124,97 +124,109 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
       <a href="https://github.com/bpradiip">bpradiip</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ttamez68A">
-        <img src="https://avatars.githubusercontent.com/u/97178823?v=4" width="100px;" alt="hoochanlon"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ttamez68A">Ttamez68A</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/ARAbros" width="100px;" alt="snowdream"/>
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="snowdream"/>
       </a>
       <br />
       <a href="https://github.com/snowdream">ARAbros</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      <a href="https://github.com/ANDROIDHASSAN">
+        <img src="https://avatars.githubusercontent.com/u/84630851?v=4" width="100px;" alt="Leticia-maria"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+      <a href="https://github.com/Leticia-maria">ANDROIDHASSAN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      <a href="https://github.com/GaurvPatil">
+        <img src="https://avatars.githubusercontent.com/u/85130077?v=4" width="100px;" alt="sbilly"/>
       </a>
       <br />
-      <a href="https://github.com/sbilly">sbilly</a>
+      <a href="https://github.com/sbilly">GaurvPatil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
+      <a href="https://github.com/iAbhishekPanwar">
+        <img src="https://avatars.githubusercontent.com/u/104500166?v=4" width="100px;" alt="victoryang00"/>
       </a>
       <br />
-      <a href="https://github.com/victoryang00">Yiwei Yang</a>
+      <a href="https://github.com/victoryang00">Abhishek Panwar</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      <a href="https://github.com/0vm">
+        <img src="https://avatars.githubusercontent.com/u/79897291?v=4" width="100px;" alt="jhonataT"/>
       </a>
       <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+      <a href="https://github.com/jhonataT">0vm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      <a href="https://github.com/gomeo06">
+        <img src="https://avatars.githubusercontent.com/u/139754806?v=4" width="100px;" alt="donmartz"/>
       </a>
       <br />
-      <a href="https://github.com/donmartz">donmartz</a>
+      <a href="https://github.com/donmartz">gomeo06</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+      <a href="https://github.com/alisa4s">
+        <img src="https://avatars.githubusercontent.com/u/141673745?v=4" width="100px;" alt="pinhe91"/>
       </a>
       <br />
-      <a href="https://github.com/pinhe91">Han Mei</a>
+      <a href="https://github.com/pinhe91">alisa4s</a>
     </td>
+    </tr>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      <a href="https://github.com/pufik111">
+        <img src="https://avatars.githubusercontent.com/u/141651985?v=4" width="100px;" alt="bitmote"/>
       </a>
       <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
+      <a href="https://github.com/bitmote">pufik111</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
+      <a href="https://github.com/gopalcodespace123">
+        <img src="https://avatars.githubusercontent.com/u/114466881?v=4" width="100px;" alt="AlphaTechnolog"/>
       </a>
       <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+      <a href="https://github.com/AlphaTechnolog">gopal ji mondal</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
+      <a href="https://github.com/RaisFaridi">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
       </a>
       <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+      <a href="https://github.com/zhuwenxing">Rais Faridi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cnsuhao">
+      <a href="https://github.com/Akhileshyadav2512">
         <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
       </a>
       <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
+      <a href="https://github.com/cnsuhao">Akhilesh Yadav</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/03Anmol">
+        <img src="https://avatars.githubusercontent.com/u/100871814?v=4" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">Anmol Kumar</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Uttam-2001">
+        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">Uttam-2001</a>
+    </td><td align="center">
+      <a href="https://github.com/dexeril974">
+        <img src="https://avatars.githubusercontent.com/u/52606425?v=4" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">dexeril974</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tsaransh">
+        <img src="https://avatars.githubusercontent.com/u/88884745?v=4" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">Saransh Tyagi</a>
     </td>
   </tr>
 </table>
