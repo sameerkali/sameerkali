@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkali&label=Profile%20views&color=EE4B2B&style=flat" alt="sameerkali" /> </p>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="">
+<img src="https://drive.google.com/file/d/1a5jDYF_v1KcYjlgq42PvI9WENQ8CuTIr/view?usp=sharing" alt="">
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt=""> -->
 <h1 align="center">Howdy! 🤠 I go by the name SAMEER FARIDI. Nice to e-meet you! 🌟</h1>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
