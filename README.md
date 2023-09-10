@@ -210,7 +210,7 @@ text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </td>
     <td align="center">
       <a href="https://github.com/Uttam-2001">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+        <img src="https://avatars.githubusercontent.com/u/77454712?v=4" width="100px;" alt="cnsuhao"/>
       </a>
       <br />
       <a href="https://github.com/cnsuhao">Uttam-2001</a>
