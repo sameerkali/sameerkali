@@ -1,9 +1,14 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="">
 <h1 align="center">Howdy! 🤠 I go by the name SAMEER FARIDI. Nice to e-meet you! 🌟</h1>
 
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="center">👋 Hey there! I'm an enthusiastic IT student 🎓. Coding gets me pumped 💻, and I'm a big fan of computers 🖥️. I'm a Full Stack Web Developer 🌐. I'm also determined to level up my skills in Data Structures and Algorithms 📚⚙️. At the moment, I'm diving into React with TypeScript 🚀, using my know-how to supercharge my growth 🌱.</h3>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkali&label=Profile%20views&color=EE4B2B&style=flat" alt="sameerkali" /> </p>
 
@@ -27,6 +32,7 @@
 
 - ⚡ Fun fact **I think i have great sense of humor 😂**
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div> <a href="https://twitter.com/Sameer_faridi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sameer-faridi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sameerkali" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -34,6 +40,7 @@
 <p align="left">
 <a href="https://codesandbox.com/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="sameerkali" height="30" width="40" /></a><a href="https://twitter.com/Sameer_faridi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Sameer_faridi_" height="30" width="40" /></a><a href="https://linkedin.com/in/sameer faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="sameer faridi" height="30" width="40" /></a><a href="https://hashnode.com/@SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hashnode.svg" alt="@SameerKali" height="30" width="40" /></a><a href="https://www.hackerrank.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="SameerKali" height="30" width="40" /></a><a href="https://www.leetcode.com/SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="SameerKali" height="30" width="40" /></a><a href="https://www.hackerearth.com/@SameerKali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@SameerKali" height="30" width="40" /></a><a href="https://dev.to/sameerkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="sameerkali" height="30" width="40" /></a></p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -71,6 +78,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/sameerkali">
@@ -88,5 +96,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerkali&" alt="sameerkali" /></p>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
