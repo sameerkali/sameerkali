@@ -16,7 +16,7 @@
 
 ## 👨‍💻 All of my projects are available at [sameerfaridi.io](https://sameers-portfolio.vercel.app/)
 
-## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SJemF6SgJT7SLSNhqexKc9PJbKlq-XgM/view?usp=sharing)
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OzwBA8E-GXf9Qyj2oQenWgAyax4EAxT5/view?usp=sharing)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
