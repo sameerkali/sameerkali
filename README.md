@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerkali&label=Profile%20views&color=EE4B2B&style=flat" alt="sameerkali" /> </p>
-<img src="./Sameer Faridi banner image.png" alt="">
+<img src="./SameerFaridi_banner.png" alt="">
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
