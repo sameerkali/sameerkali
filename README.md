@@ -6,7 +6,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center">👋 Hey there! I'm an enthusiastic IT student 🎓. Coding gets me pumped 💻, and I'm a big fan of computers 🖥️. I'm a Full Stack Web Developer 🌐. I'm also determined to level up my skills in Data Structures and Algorithms 📚⚙️. At the moment, I'm diving into React with TypeScript 🚀, using my know-how to supercharge my growth 🌱.</h3>
-fd
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
