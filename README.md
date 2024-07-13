@@ -10,7 +10,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-![Sameer Faridi github stats](https://github-readme-stats.vercel.app/api?username=sameerkali\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Sameer Faridi GitHub Streak]
 
 
 ## 📫 How to reach me **s.faridi007@gmail.com**
@@ -92,7 +91,14 @@ Javascript          8 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 text                5 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.01 %
 ```
 
+<!--GITHUB_STATUS_SAMEERKALI-->
+
+![Sameer Faridi github stats](https://github-readme-stats.vercel.app/api?username=sameerkali\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)
+
+<!--GITHUB_STATUS_SAMEERKALI-->
+
 <!--END_SECTION:waka-->
+
 
 <!-- ------------------------------------------ -->
 <!-- --------------FOLLOWERS------------------- -->
