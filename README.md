@@ -15,7 +15,7 @@
 ## 📫 How to reach me **s.faridi007@gmail.com**
 
 ## 👨‍💻 All of my projects are available at [sameerfaridi.in](https://sameerfaridi.in/)
-## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Jq66HR9BmdXmzFWeq8qxtahDo1conwaU/view?usp=sharing)
+## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cnwrAvfErIkZnMEJ25fmFjCpd-A0-eVX/view)
 
 
 
