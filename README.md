@@ -12,7 +12,7 @@
 
 
 
-## 📫 How to reach me **s.faridi007@gmail.com**
+## 📫 How to reach me **work.sameerfaridi@gmail.com**
 
 ## 👨‍💻 All of my projects are available at [sameerfaridi.in](https://sameerfaridi.in/)
 ## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jZGzfbRUDB9ngtcDtLqvmvhUZoRkXXMg/view?usp=sharing)
