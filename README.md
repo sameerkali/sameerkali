@@ -5,7 +5,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">👋 Hey there! I'm an enthusiastic IT student 🎓. Coding gets me pumped 💻, and I'm a big fan of computers 🖥️. I'm a Full Stack Web Developer 🌐. I'm also determined to level up my skills in Data Structures and Algorithms 📚⚙️. At the moment, I'm diving into React with TypeScript 🚀, using my know-how to supercharge my growth 🌱.</h3>
+<h3 align="center">Im a hands-on software engineer who loves solving messy problems. React and Node.js are my goto tools, and I worry about performance and clean architecture every step of the way. Ive led small fullstack teams, and Im just as comfortable writing UI components as tuning database queries. Shipping features that actually improve a customers day is why I show up.
+</h3>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
