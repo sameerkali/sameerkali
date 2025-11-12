@@ -5,23 +5,78 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="center">Im a handson software engineer who loves solving messy problems. React and Node.js are my goto tools, and I worry about performance and clean architecture every step of the way. Ive led small fullstack teams, and Im just as comfortable writing UI components as tuning database queries. Shipping features that actually improve a customers day is why I show up.
+<h3 align="center">
+I am Sameer Faridi a hands-on Full-Stack Engineer (MERN + React Native) with 3+ years of experience.  
+I craft scalable apps with clean architecture, optimized performance, and pixel-perfect UIs.  
+I've led fullstack teams, built production-ready systems, and focus on writing code that drives business impact.
 </h3>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 👨‍💻 About Me  
+
+I’m a **Full-Stack Developer (MERN + React Native)** with 3+ years of experience turning complex product ideas into scalable and performant applications.  
+My work blends **engineering precision with product thinking**, helping businesses scale while delivering delightful user experiences.
+
+- 💻 Skilled in **React, Next.js, Node.js, Express, MongoDB, TypeScript**, and modern UI frameworks.  
+- 📱 Experienced in building **mobile apps** with **React Native**, integrating real-time APIs, and optimizing performance.  
+- ⚙️ Strong knowledge of **AWS, Docker, NGINX, GitLab CI/CD, and DevOps pipelines** for production-grade deployments.  
+- 🎯 Proven record of **leading small teams**, conducting **code reviews**, and driving quality improvements across projects.  
+- 🧩 Passionate about **UI/UX consistency, application performance, and scalable architectures**.  
+- 🧠 Advocate of clean code, maintainable design patterns, and continuous learning.  
+- 🌍 Always exploring **AI-powered applications**, **analytics integration**, and **cross-platform development**.
 
 
 
 
 ## 📫 How to reach me **work.sameerfaridi@gmail.com**
 
-## 👨‍💻 All of my projects are available at [sameerfaridi.in](https://sameerfaridi.in/)
+## 🌐 Portfolio & Projects  
+All of my professional and open-source work: [sameerfaridi.in](https://sameerfaridi.in/)  
+Featuring fullstack systems, dynamic admin dashboards, and React Native apps deployed at scale.
+
 ## 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wjzo6y5YhC53rJ9cEITVqbZ3X6FyMgug/view?usp=sharing)
 
 
+## 🏆 Featured Work  
+
+🔥 **MathDingo (B2B/B2C Learning Platform)**  
+Built and deployed 4+ high-performance web apps for MathDingo (admin panel, B2B portal, and B2C website) using **React.js, Tailwind, and Lottie**.  
+→ Increased daily user engagement by **30%**, achieved **95+ Lighthouse score**, and implemented a scalable component-driven architecture.
+
+💥 **Divine Zone (Spiritual Content Platform)**  
+Developed and launched an audio-focused spiritual content platform using **Redux**, **React**, and **Node.js**.  
+→ Boosted user retention by **25%** and supported **5,000+ successful virtual events** via integrated video calling.
+
+🚀 **Krazy11 (Fantasy Cricket App)**  
+Led front-end engineering using **React Native + Redux**, optimizing performance and reducing crash rate by **40%**.  
+→ Implemented modular architecture, ensuring smooth performance even during peak traffic events.
+
+⚡ **Homemaintenance Admin Panel (Next.js + AWS)**  
+Designed and developed a responsive admin panel achieving **98% accessibility** and improving first contentful paint by **1.2s**.  
+→ Delivered a seamless UX across devices with strong SEO and Lighthouse improvements.
+
+🧠 **Front-End Machine Coding Practice Platform**  
+Created a learning platform for frontend engineers to practice coding rounds using **React + Tailwind + Webpack**.  
+→ Reached **120K+ visits**, **1,450 active users**, and **70+ GitHub stars**, powered by performance optimizations and analytics tracking.
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+## 🏁 Final Note  
+
+I believe great software is not just written — it’s designed, tested, refined, and crafted with purpose.  
+My goal is to build digital products that are as beautiful in architecture as they are in experience.
+
+If you're building something that demands performance, reliability, and scale — let's connect.  
+
+> “Code is easy. Craftsmanship takes intent.” — Sameer Faridi  
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <div> <a href="https://twitter.com/Sameer_faridi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sameer-faridi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sameerkali" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
