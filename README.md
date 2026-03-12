@@ -72,7 +72,7 @@ My goal is to build digital products that are as beautiful in architecture as th
 
 If you're building something that demands performance, reliability, and scale — let's connect.  
 
-> “Code is easy. Craftsmanship takes intent.” — Sameer Faridi  
+> “fuck nontechnical managers.” — Sameer Faridi  
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
