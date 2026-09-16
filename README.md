@@ -11,7 +11,6 @@ I craft scalable apps with clean architecture, optimized performance, and pixel-
 I've led fullstack teams, built production-ready systems, and focus on writing code that drives business impact.
 </h3>
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 👨‍💻 About Me  
